@@ -8,7 +8,7 @@ body {
     background-color: #1F2937;
     display: flex;
     flex-direction: column;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     padding-bottom: 50px;
     padding-top: 20px;
 }
@@ -28,6 +28,11 @@ ul {
 li {
     margin: 10px;
 }
+
+a {
+    text-decoration: none;
+    color: #E5E7EB;
+  }
 
 .heromaintext {
     font-size: 48px;
@@ -49,9 +54,9 @@ li {
 .header1 {
     margin: 60px;
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
     align-items: center;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
 .header1-1 {
@@ -60,10 +65,10 @@ li {
 }
 
 .container {
-    width: 700px;
+    width: 800px;
     padding-bottom: 10px;
     margin: 100px;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
 .button1 {
@@ -102,7 +107,7 @@ li {
     margin: 20px;
     display: flex;
     justify-content: center;
-    border: 3px solid green;
+    /* border: 3px solid green; */
 }
 
 .header2-2 {
@@ -118,7 +123,7 @@ li {
     justify-content: center;
     width: 170px;
     margin: 15px;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
 .infoheadertext {
@@ -150,12 +155,12 @@ li {
 
 .header3-2 {
     width: 600px;
-    border: 1px solid red;    
+    /* border: 1px solid red;     */
 }
 
 .header3-3 {
     width: 600px;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
 .quote {
@@ -176,7 +181,7 @@ li {
 }
 
 .header4-1 {
-    border: 1px solid red;
+    /* border: 1px solid red; */
     background-color: #3882F6;
     border-radius: 8px;
     width: 800px;
@@ -189,17 +194,12 @@ li {
 }
 
 .header4-2 {
-    border: 1px solid red;
+    /* border: 1px solid red; */
     margin: 25px;
     padding: 25px;
 
 }
 
-.header4-3 {
-    display: flex;
-    flex-direction: row-reverse;
-    justify-items: flex-end;
-}
 
 .button2 {
     background-color: #3882F6;
@@ -209,8 +209,8 @@ li {
     box-shadow: none;
     font-size: 18px;
     font-weight: bold;
-    
-    padding: 6px 30px;
+    text-align:justify;
+    padding: 4px 40px;
 
 }
 
