@@ -1,6 +1,6 @@
 # odin-landpage
 Created a landing page as my first project using html/css in the odin project.  
-The site is structured according the to the project's parameters.  
+The site is structured according the to the project's [parameters](https://www.theodinproject.com/lessons/foundations-landing-page)
 Themed it around arcades/retro.
 
 Top Photo by Ben Neale on Unsplash: https://unsplash.com/photos/zpxKdH_xNSI  
